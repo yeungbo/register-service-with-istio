@@ -1,3 +1,7 @@
+##################################################################################################
+# Template for register service with ISTIO under base_url (e.g. https://istiosvc.sdt.blue.watson-health.ibm.com)
+# author: Bo Yang, yangbbo@cn.ibm.com 
+##################################################################################################
 apiVersion: networking.istio.io/v1alpha3
 kind: VirtualService
 metadata:
